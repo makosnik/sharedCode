@@ -1,0 +1,12 @@
+# skip R history files
+.Rhistory
+.Rapp.history
+
+# skip R session data files
+.RData
+
+# skip user-specific files
+.Ruserdata
+
+# skip OSX
+.DS_Store
